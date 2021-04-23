@@ -12,7 +12,6 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 
 from pathlib import Path
 import django_heroku
-import django-heroku
 import dj_database_url
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
